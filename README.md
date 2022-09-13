@@ -19,7 +19,9 @@ The pandas are climbing up the obstacles that the Ethereum community has overcom
 
 In addtion the bamboo represent EIPs that were iterated and built upon to upgrade from POW to POS. As the EIPs create a strong foundation and are woven into one another. 
 
-The pandas on the right side were working on the POS system during all these challenges.  The purple and colorful pandas meet at the top as @SuperPhiz stated: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The merge might be more accurately described as &quot;a marriage&quot;. It&#39;s not an example of two becoming one, but rather, &quot;two getting together and sharing responsibilities&quot;. Both chains will still exist, they&#39;ll just work very closely together. A marriage.</p>&mdash; superphiz.eth 🦇🔊🐼 (@superphiz) <a href="https://twitter.com/superphiz/status/1567858160790114304?ref_src=twsrc%5Etfw">September 8, 2022</a></blockquote>
+The pandas on the right side were working on the POS system during all these challenges.  The purple and colorful pandas meet at the top as [@SuperPhiz](https://twitter.com/superphiz?s=20&t=DKzXbNYQLIOQP0BpEFLRyw)
+
+stated: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The merge might be more accurately described as &quot;a marriage&quot;. It&#39;s not an example of two becoming one, but rather, &quot;two getting together and sharing responsibilities&quot;. Both chains will still exist, they&#39;ll just work very closely together. A marriage.</p>&mdash; superphiz.eth 🦇🔊🐼 (@superphiz) <a href="https://twitter.com/superphiz/status/1567858160790114304?ref_src=twsrc%5Etfw">September 8, 2022</a></blockquote>
 
 therefore the pandas meet in the middle like POW and POS forming a union.
 
