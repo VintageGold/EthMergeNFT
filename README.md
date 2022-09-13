@@ -30,7 +30,7 @@ therefore the pandas meet in the middle like POW and POS forming a union.
 <img src="images/TreeShaman-pinksky.png" width="500" alt="centered">
 </p>
 
-The tree shaman on the right is for the person who is a got me into crypto being Ori Shimony who has been leading the charge on bringing DAOs to life with dOrg.
+The tree shaman on the right is for the person who is a got me into crypto being Ori Shimony who has been leading the charge on bringing DAOs to life with @dOrg.
 
 
 
