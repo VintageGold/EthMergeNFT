@@ -11,7 +11,9 @@ I ran with that the outline is a clock. There are 7 Ethereum logos in the POAP f
 
 
 ## Middle
-<img src="images/pandaclimbing.png" width="500" alt="centered">
+<p align="center">
+<img src="images/pandaclimbing.png" width="300" alt="centered">
+</p>
 
 The pandas are climbing up the obstacles that the Ethereum community has overcome throughout the journey to proof of stake (POS). During the journey to POS the POW chain was 100% up when battle tested by Crypto Kitties, Defi Summer, and The NFT Boom volume. This is symbolized by the pandas climbing up the left side and the panda bear with a high sidekick is for kicking ass and handling all that workload.  The surrounding bamboo plants are because the pandas need nutrition along the way, in addtion though the bamboo represent the EIPs that were iterated and built upon upgrade from POW to POS.   
 
@@ -22,7 +24,10 @@ therefore the pandas meet in the middle like POW and POS forming a union.
 
 
 ### Top Right
+<p align="center">
 <img src="images/TreeShaman-pinksky.png" width="500" alt="centered">
+</p>
+
 The tree shaman on the right is for the person who is a got me into crypto being Ori Shimony who has been leading the charge on bringing DAOs to life with dOrg.
 
 
