@@ -39,4 +39,5 @@ The tree shaman on the right is for the person who is a got me into crypto being
 The pink and white sky symbolizes [@Algovera](https://twitter.com/AlgoveraAI?s=20&t=eIYv85skbmPXPl-vUZGLBQ) and all the data science DAO has granted me with projects and a warm community.
 
 Thank you,
+
 Vintage Gold
