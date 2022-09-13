@@ -1,7 +1,7 @@
 # 9-13 Merge Contributor Git POAP
-<center>
-   <img src="images/main.png" width="500" alt="centered">
-</center>
+<p class="aligncenter">
+   <img src="images/main.png" width="500" alt="aligncenter">
+</p>
 
 
 ## Top
