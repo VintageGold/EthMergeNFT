@@ -1,4 +1,4 @@
-# 9-13 Merge Contributor Git POAP
+# 9-13 Merge Contributor Git POAP - Eth Merge NFT
 <p align="center">
      <img src="images/main.png" width="500">
 </p>
