@@ -1,7 +1,15 @@
-# 9-13 Merge Contributor Git POAP - Eth Merge NFT
+# 2022-9-15 Eth Merge NFT - 
 <p align="center">
      <img src="images/main.png" width="500">
 </p>
+
+Below are details about what the NFT empowers you to do!
+
+Details of Purchase:
+All addresses that complete this purchase will receive the V1 t-shirt in black and will be able to claim and have the V2 t-shirt shipped to an address of their choice.  This NFT will be used to engage with my other designs, music, and machine learning models I create!
+
+Design Story:
+
 
 
 ## Top
