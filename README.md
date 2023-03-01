@@ -55,4 +55,4 @@ The pink and white sky symbolizes [@Algovera](https://twitter.com/AlgoveraAI?s=2
 
 Thank you,
 
-Vintage Gold
+Vintage Gold - https://twitter.com/vintagegold3
