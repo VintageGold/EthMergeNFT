@@ -3,12 +3,15 @@
      <img src="images/main.png" width="500">
 </p>
 
-Below are details about what the NFT empowers you to do!
+<b>Below are details about what the NFT empowers you to do!</b>
 
 Details of Purchase:
 All addresses that complete this purchase will receive the V1 t-shirt in black and will be able to claim and have the V2 t-shirt shipped to an address of their choice.  This NFT will be used to engage with my other designs, music, and machine learning models I create!
 
 Design Story:
+😱💨IPFS CID - bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
+😱💨IPFS Gateway - https://nftstorage.link/ipfs/bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
+😱💨Local IPFS - ipfs://bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
 
 
 
