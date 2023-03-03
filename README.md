@@ -34,7 +34,7 @@ therefore the pandas meet in the middle like POW and POS forming a union.
 
 
 
-### Top Right
+## Top Right
 <p align="center">
 <img src="images/TreeShaman-pinksky.png" width="500" alt="centered">
 </p>
