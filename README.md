@@ -47,7 +47,7 @@ therefore the pandas meet in the middle like POW and POS forming a union.
 <img src="images/TreeShaman-pinksky.png" width="500" alt="centered">
 </p>
 
-The tree shaman on the right is for the person who is a got me into crypto being [@orishim](https://twitter.com/orishim?s=20&t=eIYv85skbmPXPl-vUZGLBQ) who has been leading the charge on bringing DAOs to life with [@dOrg](https://twitter.com/dOrg_tech?s=20&t=eIYv85skbmPXPl-vUZGLBQ).
+The tree shaman on the right is for the person who got me into crypto being [@orishim](https://twitter.com/orishim?s=20&t=eIYv85skbmPXPl-vUZGLBQ) who has been leading the charge on bringing DAOs to life with [@dOrg](https://twitter.com/dOrg_tech?s=20&t=eIYv85skbmPXPl-vUZGLBQ).
 
 
 
