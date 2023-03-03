@@ -49,7 +49,9 @@ Thank you,
 
 Vintage Gold - https://twitter.com/vintagegold3
 
-Other Sources of this repo
+
+<b>Other Sources of this repo</b>
+
 😱💨IPFS CID - bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
 
 😱💨IPFS Gateway - https://nftstorage.link/ipfs/bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
