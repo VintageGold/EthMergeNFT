@@ -50,7 +50,7 @@ Thank you,
 Vintage Gold - https://twitter.com/vintagegold3
 
 
-<b>Other Sources of this repo</b>
+## Other Sources of this repo
 
 😱💨IPFS CID - bafybeidxnpecoyq3qgtp3t4mvvjpu7tojn6pj7mgycbgpvr6v2bbdl6ike
 
