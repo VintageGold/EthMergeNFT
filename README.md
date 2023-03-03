@@ -2,11 +2,13 @@
 <b>Details of Purchase:</b>
 
 All addresses that complete this purchase will receive the V1 t-shirt in black and will be able to claim and have the V2 t-shirt shipped to an address of their choice.  This NFT will be used to engage with my other designs, music, and machine learning models I create!
+<b>Below are details about what the NFT empowers you to do!</b>
+
 <p align="center">
      <img src="images/main.png" width="500">
 </p>
 
-<b>Below are details about what the NFT empowers you to do!</b>
+
 
 # Design Story
 ## Top
